@@ -5,12 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=000000&width=1200&height=120&size=40">
 </p>
 
+<h2 align="center" style="background-color: #000010; color: white; padding: 8px;" >About</h2>
+<h4 align="center">I am a motivated Web Development learner based in Dhaka, focused on building strong logical thinking and problem-solving skills. I am passionate about creating functional, scalable web solutions while continuously improving through real-world projects. Web development is not just a skill I am learning — it is a field I am deeply passionate about.</h4>
+
 <table>
   <tr>
     <td width="60%" valign="top" >
-
-<h3>New Web Developer from Bangladesh.</h3>
-
 <ul>
   <li>🔭 I’m currently working on <a href="https://digitool-abdullah-al-mahmud.netlify.app/">React JS</a></li>
   <li>🌱 I’m currently learning <b>React JS, Next.js</b></li>
