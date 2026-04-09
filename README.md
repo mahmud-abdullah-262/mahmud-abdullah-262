@@ -7,35 +7,37 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top" >
 
 <h3>New Web Developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on <a href="https://digitool-abdullah-al-mahmud.netlify.app/">React JS</a>  
-- 🌱 I’m currently learning <b>React JS, Next.js</b>  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/mahmud-abdullah-262">GitHub</a>  
-- 💬 Ask me about <b>React, Next.js</b>  
-- 📫 <b>abdullah624683@gmail.com</b>  
-- ⚡ Fun fact: <b>I like to explore new technologies.</b>
+<ul>
+  <li>🔭 I’m currently working on <a href="https://digitool-abdullah-al-mahmud.netlify.app/">React JS</a></li>
+  <li>🌱 I’m currently learning <b>React JS, Next.js</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/mahmud-abdullah-262">GitHub</a></li>
+  <li>💬 Ask me about <b>React, Next.js</b></li>
+  <li>📫 <b>abdullah624683@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>I like to explore new technologies.</b></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/mahmud-abdullah-webdev" target="blank">
+<a href="https://linkedin.com/in/mahmud-abdullah-webdev">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/abdullahalmahmud1997" target="blank">
+<a href="https://www.facebook.com/abdullahalmahmud1997">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 </p>
 
-    </td>
-
-    <td width="50%" align="center">
+   
+<td>
+  
 
 <img src="https://github.com/user-attachments/assets/6d16a294-a991-49e1-bddb-3e9e597e8380" width="100%" />
 
-    </td>
+    
   </tr>
 </table>
 
