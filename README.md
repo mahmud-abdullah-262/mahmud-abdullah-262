@@ -1,7 +1,9 @@
 
 <img width="3780" height="1890" alt="Abdullah Al Mahmud" src="https://github.com/user-attachments/assets/7c0f76ea-3ee3-4f98-bee9-066aeb05aee2" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=000000&width=600&height=100&speed=50&pause=1000">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=000000&width=1200&height=200">
+</p>
 <h3 align="center">New Web Developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on [React JS](https://digitool-abdullah-al-mahmud.netlify.app/)
