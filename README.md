@@ -11,6 +11,7 @@
 <table>
   <tr>
     <td width="60%" valign="top" >
+      <h3>Facts:<h3/>
 <ul>
   <li>🔭 I’m currently working on <a href="https://digitool-abdullah-al-mahmud.netlify.app/">React JS</a></li>
   <li>🌱 I’m currently learning <b>React JS, Next.js</b></li>
