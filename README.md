@@ -11,23 +11,29 @@
 
 <h3>New Web Developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [React JS](https://digitool-abdullah-al-mahmud.netlify.app/)  
-- 🌱 I’m currently learning **React JS, Next.js**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahmud-abdullah-262)  
-- 💬 Ask me about **React, Next.js**  
-- 📫 **abdullah624683@gmail.com**  
-- ⚡ Fun fact: **I like to explore new technologies.**
+- 🔭 I’m currently working on <a href="https://digitool-abdullah-al-mahmud.netlify.app/">React JS</a>  
+- 🌱 I’m currently learning <b>React JS, Next.js</b>  
+- 👨‍💻 All of my projects are available at <a href="https://github.com/mahmud-abdullah-262">GitHub</a>  
+- 💬 Ask me about <b>React, Next.js</b>  
+- 📫 <b>abdullah624683@gmail.com</b>  
+- ⚡ Fun fact: <b>I like to explore new technologies.</b>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mahmud-abdullah-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahmud-abdullah-webdev" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdullahalmahmud1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullahalmahmud1997" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmud-abdullah-webdev" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/abdullahalmahmud1997" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
+
     </td>
 
     <td width="50%" align="center">
 
-![undraw_programming_j1zw](https://github.com/user-attachments/assets/6d16a294-a991-49e1-bddb-3e9e597e8380)
+<img src="https://github.com/user-attachments/assets/6d16a294-a991-49e1-bddb-3e9e597e8380" width="100%" />
 
     </td>
   </tr>
