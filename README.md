@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 <h3>New Web Developer from Bangladesh.</h3>
 
