@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=000000&width=1200&height=120&size=40">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2b2b2b&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=e4e2dd&width=1200&height=120&size=40">
 </p>
 
 <h2 align="center" style="background-color: #000010; color: white; padding: 8px;" >About</h2>
