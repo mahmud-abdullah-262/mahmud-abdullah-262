@@ -74,8 +74,11 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-abdullah-262&theme=dark&hide_border=true&background=0d0d0d&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mahmud-abdullah-262&theme=dark&hide_border=true&background=0d0d0d&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
 </p>
+
+
+
 <h2 align="center">My Workflow, Like a Snake Game</h2>
 
 <p align="center">
