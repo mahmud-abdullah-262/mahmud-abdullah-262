@@ -60,7 +60,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&width=1000&height=150&lines=⚡+Personal+Philosophy;Code,+create,+and+communicate;and+combining+skills+with+purpose.&background=e74634&&size=40&pause=500&speed=55">
 </p>
 
-## 📊 GitHub Stats
+<h2 align='center' style="background-color: #cef4f8; padding: 8px;">📊 GitHub Stats</h2> 
 
 
 
