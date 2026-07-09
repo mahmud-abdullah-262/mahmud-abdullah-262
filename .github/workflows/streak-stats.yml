@@ -20,7 +20,7 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user_id: mahmud-abdullah-262
-          options: theme=dark&hide_border=true&background=0d0d0d&ring=10b981&fire=10b981&currStreakLabel=10b981
+         options: theme=default&hide_border=true&background=ffffff&ring=10b981&fire=10b981&currStreakLabel=10b981
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
