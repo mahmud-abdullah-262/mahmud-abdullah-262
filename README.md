@@ -62,19 +62,10 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mahmud-abdullah-262&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="Mahmud's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-abdullah-262&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahmud-abdullah-262&theme=dark&hide_border=true&background=0d0d0d&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 
