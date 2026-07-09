@@ -60,9 +60,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&width=1000&height=150&lines=⚡+Personal+Philosophy;Code,+create,+and+communicate;and+combining+skills+with+purpose.&background=e74634&&size=40&pause=500&speed=55">
 </p>
 
-<h2 align="center">My Wrokflwo like a skake game</h2>
+<h2 align="center">My Workflow, Like a Snake Game</h2>
 
-![snake gif](https://raw.githubusercontent.com/mahmud-abdullah-262/mahmud-abdullah-262/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahmud-abdullah-262/mahmud-abdullah-262/output/github-contribution-grid-snake.svg" alt="snake animation eating my github contribution graph" />
+</p>
 
   <h3 align="center">Languages and Tools</h3>
 
