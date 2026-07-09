@@ -1,5 +1,6 @@
 
-<img width="3780" height="1890" alt="Abdullah Al Mahmud" src="https://github.com/user-attachments/assets/7c0f76ea-3ee3-4f98-bee9-066aeb05aee2" />
+<img width="1280" height="720" alt="slice" src="https://github.com/user-attachments/assets/626cb0d7-226a-4346-819d-01eb841ecbef" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hi+👋,+I'm+Abdullah+Al+Mahmud;Welcome+to+my+portfolio&background=000000&width=1200&height=120&size=40">
