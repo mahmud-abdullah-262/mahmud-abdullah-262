@@ -1,5 +1,6 @@
 
-<img width="1280" height="720" alt="slice" src="https://github.com/user-attachments/assets/626cb0d7-226a-4346-819d-01eb841ecbef" />
+<img width="1280" height="720" alt="slice (1)" src="https://github.com/user-attachments/assets/3765b00f-2ef1-466f-aae4-19177437c885" />
+
 
 
 <p align="center">
