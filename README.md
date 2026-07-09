@@ -60,6 +60,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&width=1000&height=150&lines=⚡+Personal+Philosophy;Code,+create,+and+communicate;and+combining+skills+with+purpose.&background=e74634&&size=40&pause=500&speed=55">
 </p>
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahmud-abdullah-262&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=10b981&icon_color=10b981&text_color=c9d1d9" alt="Mahmud's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-abdullah-262&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-abdullah-262&theme=dark&hide_border=true&background=0d0d0d&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+</p>
 <h2 align="center">My Workflow, Like a Snake Game</h2>
 
 <p align="center">
